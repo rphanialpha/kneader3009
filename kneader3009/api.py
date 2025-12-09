@@ -113,4 +113,4 @@ def _get_final_item_from_batch(batch_no):
         return {"batch_no": batch_no, "item_code_full": item_code_full, "item_code_prefix": prefix}
 
     final_item = b[0].get("item")
-    return {"batch_no": batch_no, "item_code_full": item_code_full, "item_code_prefix": prefix, "final_item": final_item}-----------------------i want to tset this code in postman,guide me....if i enter the batch number,it should return the mixing sequence 
+    return {"batch_no": batch_no, "item_code_full": item_code_full, "item_code_prefix": prefix, "final_item": final_item} 
