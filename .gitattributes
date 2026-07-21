@@ -1,0 +1,7 @@
+# Compiled frontend bundles copied into Frappe asset dirs — not source, don't count toward language stats
+kneader3009/public/kneader3009/js/*.js linguist-generated=true
+kneader3009/public/kneader3009/css/*.css linguist-generated=true
+kneader3009/www/kneader3009/js/*.js linguist-generated=true
+kneader3009/www/kneader3009/css/*.css linguist-generated=true
+
+frontend/package-lock.json linguist-generated=true
