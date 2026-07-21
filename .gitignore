@@ -5,3 +5,30 @@
 tags
 node_modules
 __pycache__
+
+# IDEs / editors
+.idea/
+.vscode/
+*.iml
+
+# Python
+*.pyo
+.venv/
+venv/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Frontend build output
+frontend/dist/
+frontend/node_modules/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
